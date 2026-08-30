@@ -4,7 +4,7 @@ Self-directed cybersecurity projects built while training toward a SOC analyst r
 
 ## About Me
 
-I'm training toward a SOC analyst role through self-directed study — networking fundamentals, Linux, Wireshark, and TryHackMe alongside these hands-on projects. Each project below includes my own write-up explaining what I built, what I learned, and why it matters for security work, not just the code itself.
+I'm Callum Rowland, UK-based and currently studying for a Cybersecurity BSc through the Open University, training toward a SOC analyst role. Alongside my degree, I do self-directed hands-on study — networking fundamentals, Linux, Wireshark, and TryHackMe. Long-term, I'm working toward further study in cybersecurity as I build up real-world skills. Each project below includes my own write-up explaining what I built, what I learned, and why it matters for security work, not just the code itself.
 
 ## Projects
 
