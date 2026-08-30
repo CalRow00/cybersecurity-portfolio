@@ -22,7 +22,7 @@
 *This is a quick overview, security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 > [!NOTE]
-> **Foundations tier**, this project is built for someone who has never written Python before. The source code is heavily commented as a teaching aid, and the `learn/` folder explains every concept from zero.
+> **Foundations tier, this project is built for someone who has never written Python before. The source code is heavily commented as a teaching aid — for deeper concept explanations, see the [learn modules](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/foundations/http-headers-scanner/learn) in the original repo.
 
 ## What It Does
 
